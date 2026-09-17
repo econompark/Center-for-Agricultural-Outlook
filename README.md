@@ -14,12 +14,6 @@ A collection of code and resources for the work of the Center for Agricultural O
 - The tutorial is meant to show how the model is used. The data are a simple simulation, so the forecast accuracy itself is not meaningful.
 - The fine-tuned parameters were tuned on daily cabbage prices at the Garak wholesale market (2011–2023). For other commodities, fine-tune again from the base parameters.
 
-## Planned additions
-
-- Forecasting with covariates (calendar, weather, etc.)
-- Code for fine-tuning on your own data
-- Prediction interval calibration (conformal prediction) and feature importance (SHAP)
-
 ## References
 
 - Ansari, A. F., Shchur, O., et al. (2025). *Chronos-2: From Univariate to Universal Forecasting*. arXiv:2510.15821. https://arxiv.org/abs/2510.15821
