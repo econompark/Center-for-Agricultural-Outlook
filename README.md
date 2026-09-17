@@ -1,6 +1,6 @@
 # Center for Agricultural Outlook
 
-A collection of code and resources for the work of the Center for Agricultural Outlook, Korea Rural Economic Institute (KREI). It starts with tutorials on using time series foundation models for agricultural price forecasting, and code that can be used directly in practice will be added over time.
+A collection of code and resources for the work of the Center for Agricultural Outlook, Korea Rural Economic Institute (KREI).
 
 ## Contents
 
